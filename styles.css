@@ -1,0 +1,192 @@
+body{
+    background-color: #dda15e;
+    width: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner-img{
+    background-image: url("images/saint-john-city.jpg");
+    background-size:cover;
+    display: block;
+    margin-left: auto;
+    margin-right: 40px;
+    margin-bottom: 0px;
+    width: 1110%;
+    height: 500px;
+    padding: 70px;
+    padding-right: 70px;
+    justify-content: center;
+    border-radius: 30px;
+    text-decoration: none;
+       
+}
+
+.text-banner1{
+    margin-top: 20px;
+    margin-bottom: 10;
+    font-family: 'Smooch', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+
+.text-banner2{
+    margin-top: none;
+    font-family: 'Smooch', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+#text-topic-hero{
+    padding: 0px 70px;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    flex-direction: row;
+    align-items: center;
+    width: 1110px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 2px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+ 
+}
+
+.hero{
+    padding: 70px 70px;
+    text-align: center;
+    justify-content: space-around;
+    display:inline; 
+    flex-direction: row;
+    align-items: center;
+    width: 1110px;
+    height: 100px;
+    margin: 70px auto;
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+
+.irving-park-img{
+    width: 200px;
+    border-radius: 50%;
+    text-decoration: none;
+        
+}
+
+.reversing-falls-img{
+    width: 200px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin-top: -1px;
+    
+}
+
+
+.citi-market-img{
+    width: 200px;
+    border-radius: 50%;
+    text-decoration: none;
+    
+}
+
+.paragrafo1{
+    width: 200px;
+    margin-top: 10px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+.paragrafo2{
+    width: 200px;
+    margin-top: 10px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+   
+}
+
+.paragrafo3{
+    width: 200px;
+    margin-top: 10px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+
+}
+
+.card{
+    padding: 0px 70px;
+    background-color: #606c38;
+    text-align: center;
+    justify-content: center;
+    display: inline;
+    flex-direction: in line;
+    align-items: center;
+    width: 1110px;
+    height: 400px;
+    display: flex;
+    margin: 40px auto;
+    border-radius: 20px;
+}
+
+.card-border{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: auto 20px;
+    border-bottom: 5px solid black;
+    background-color: #fff3b7;
+    
+}
+
+
+.foto_linkedin{
+    width: 150px;
+}
+
+.foto_profile{
+    margin: 15px 0;
+    padding: 0px;
+    border-radius: 50%;
+   
+}
+
+.container_dados{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 0px; 
+    display: block;
+    margin: 15px 5px;
+    justify-content: center;
+    width: 200px;
+    margin-top: 5px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    
+}
+
+
