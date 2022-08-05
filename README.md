@@ -1,2 +1,2 @@
 # myhometown
-Simple site created as part of the Scrimba Career Path
+Simple site unsing HTML and CSS.
